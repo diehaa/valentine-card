@@ -43,6 +43,12 @@ openBtn.addEventListener("click", () => {
     document.querySelector(".container").classList.add("close")
 })
 
+const music = document.getElementById("bgMusic");
+
+document.body.addEventListener("click", () => {
+    music.play();
+}, { once: true });
+
 var cardValentine = document.querySelector(".cardValentine")
 
 cardValentine.addEventListener("click", () => {
@@ -55,4 +61,5 @@ cardValentine.addEventListener("click", () => {
             document.querySelector(".letterContent").innerHTML = ""
         }, 1000)
     }
+
 })
