@@ -3,7 +3,7 @@ var letterContent =
 "Gửi người yêu của anh,\n" + 
 "Đây là Valentine đầu tiên mình có nhau, nhưng lại chẳng thể ở bên nhau. Không sao, em hãy tin rằng phía bên kia màn hình của em vẫn luôn có người cố gắng từng ngày, không chỉ vì bản thân mà còn vì mục tiêu dài hạn là \"đưa nàng về dinh\" ^^. \n"
 + "Em ơi dù mai sau.\n" + "Dù có gió mưa xô nghiêng vào đầu.\n" + "Em ơi em nhớ nắm tay anh qua thương đau ~~\n" +
-"Mong em sẽ mỉm cười khi đọc được những dòng chữ vụng về mà anh vẽ nên. Anh yêu Vi rất nhiều!\n" + "Hôm nay cho anh một lần được làm Lý Tuân của đời em nhé Vi =))"
+"Mong em sẽ mỉm cười khi đọc được những dòng chữ vụng về mà anh vẽ nên. Anh yêu Vi rất nhiều!\n" + "Hôm nay cho anh một lần được làm Lý Tuân của đời em nhé Vi =)))"
 
 durationWrite = 50 
 
@@ -63,3 +63,4 @@ cardValentine.addEventListener("click", () => {
     }
 
 })
+
